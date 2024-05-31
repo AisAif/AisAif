@@ -2,7 +2,7 @@
   <img src="https://ais-aif.my.id/img/logo.png" height="230"/>
 </p>
 <hr>
-<h1 align="center"><img src="wave.gif" width="60px"/>I'm <a href="https://github.com/AisAif">Abdullah Isbarul Fahmi<a></h1>
+<h1 align="center">👋 I'm <a href="https://github.com/AisAif">Abdullah Isbarul Fahmi<a></h1>
 <Br>
 <h1>About Me! 🤫</h1>
 
