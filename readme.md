@@ -45,24 +45,7 @@
 <Br>
 <hr>
 <Br>
-<h1>Some of my Projects! 🎨</h1>
-<Br>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AisAif&repo=ClassMath-Restful-API)](https://github.com/AisAif/ClassMath-Restful-API) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AisAif&repo=flatpee-whatsapp-bot)](https://github.com/AisAif/flatpee-whatsapp-bot) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AisAif&repo=Contacts-Manager-Restful-API)](https://github.com/AisAif/Contacts-Manager-Restful-API)
-
-<Br>
-<hr>
-<br>
-<h1>GitHub Stats! 📊</h1>
-<Br>
-  
-[![Arya's github stats](https://github-readme-stats.vercel.app/api?username=AisAif&show_icons=true&theme=merko)](https://github.com/AisAif/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AisAif&layout=compact&theme=merko)](https://github.com/AisAif/github-readme-stats)
-
- 
-<Br>
-<hr>
-
-<Br>
 <h1>Thank You! 🤵 </h1>
 <Br>
 
